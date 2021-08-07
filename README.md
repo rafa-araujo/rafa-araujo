@@ -1,5 +1,7 @@
-<h1> HEllo! My name is Rafael Araujo and this is my profile. </h1>
-<img align="right" alt="rafa-araujo-anime-version" src="https://cdn.discordapp.com/attachments/872942902454681690/872943127726538823/mygif.gif">
+<img align="right" height="200" width="210" alt="rafa-araujo-anime-version" src="https://cdn.discordapp.com/attachments/872942902454681690/872943127726538823/mygif.gif">
+<h1> Hello!</h1>
+<h1>My name is Rafael Araujo and this is my profile.</h1>
+
 <h1> Welcome!</h1>
 
 <!--START_SECTION:waka-->
