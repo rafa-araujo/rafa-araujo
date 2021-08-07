@@ -1,3 +1,7 @@
+<h1> HEllo! My name is Rafael Araujo and this is my profile. </h1>
+<img align="right" alt="rafa-araujo-anime-version" src="https://cdn.discordapp.com/attachments/872942902454681690/872943127726538823/mygif.gif">
+<h1> Welcome!</h1>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
