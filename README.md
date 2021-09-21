@@ -27,7 +27,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 263 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 81.0 kB Used in Github's Storage 
  > 
@@ -66,16 +66,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 5 mins         █████████████████████████   100.0%
+JavaScript               1 hr 56 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.0%
+VS Code                  1 hr 56 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-trybe-exercises          1 hr 5 mins         █████████████████████████   100.0%
+trybe-exercises          1 hr 56 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   100.0%
+Linux                    1 hr 56 mins        █████████████████████████   100.0%
 
 ```
 
@@ -92,7 +92,7 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2021
+ Last Updated on 21/09/2021
 <!--END_SECTION:waka-->
 
   </details> 
