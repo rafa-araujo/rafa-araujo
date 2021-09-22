@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 264 Contributions in the Year 2021
  > 
-> 📦 81.0 kB Used in Github's Storage 
+> 📦 81.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -66,16 +66,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 56 mins        █████████████████████████   100.0%
+JavaScript               3 hrs 33 mins       ████████████████████████░   97.89% 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
 🔥 Editors: 
-VS Code                  1 hr 56 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 37 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-trybe-exercises          1 hr 56 mins        █████████████████████████   100.0%
+trybe-exercises          3 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 56 mins        █████████████████████████   100.0%
+Linux                    3 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -92,7 +93,7 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
   </details> 
