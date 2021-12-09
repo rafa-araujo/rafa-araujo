@@ -23,7 +23,7 @@
        <div align="justify">
         
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,18 +66,17 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               2 hrs 2 mins        █████████████████████████   99.98% 
+JavaScript               2 hrs 33 mins       █████████████████████████   99.98% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 33 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-014-b-project-starwars2 hrs 1 min         ████████████████████████░   99.39% 
-sd-014-b-project-docker-t0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+sd-014-b-project-starwars2 hrs 33 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.0%
+Linux                    2 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -95,7 +94,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
   </details> 
