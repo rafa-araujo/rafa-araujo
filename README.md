@@ -66,16 +66,16 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sd-014-b-project-starwars32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -93,7 +93,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
   </details> 
