@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 321 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 83.2 kB Used in GitHub's Storage 
  > 
@@ -93,7 +93,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
   </details> 
