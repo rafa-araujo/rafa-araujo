@@ -66,20 +66,16 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    1 hr 53 mins        █████████████████████░░░░   86.08% 
-Docker                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sd-015-b-project-docker-t2 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -97,7 +93,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2022 18:41:26 UTC
+ Last Updated on 20/02/2022 18:41:52 UTC
 <!--END_SECTION:waka-->
 
   </details> 
