@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 47 Contributions in the Year 2022
+> 🏆 49 Contributions in the Year 2022
  > 
 > 📦 72.5 kB Used in GitHub's Storage 
  > 
@@ -66,16 +66,20 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               5 hrs 43 mins       █████████████████████░░░░   87.11% 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.24% 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 33 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sd-016-b-store-manager   6 hrs 33 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +97,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/04/2022 18:44:45 UTC
+ Last Updated on 28/04/2022 18:48:00 UTC
 <!--END_SECTION:waka-->
 
   </details> 
