@@ -66,20 +66,16 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               3 hrs 14 mins       ████████████████████░░░░░   81.81% 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 57 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sd-016-b-store-manager   3 hrs 57 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 57 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -97,7 +93,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/05/2022 18:46:29 UTC
+ Last Updated on 05/05/2022 18:46:27 UTC
 <!--END_SECTION:waka-->
 
   </details> 
