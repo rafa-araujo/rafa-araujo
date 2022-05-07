@@ -23,6 +23,8 @@
        <div align="justify">
         
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -93,7 +95,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:47:02 UTC
+ Last Updated on 07/05/2022 18:44:51 UTC
 <!--END_SECTION:waka-->
 
   </details> 
