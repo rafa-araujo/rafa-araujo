@@ -68,16 +68,16 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sd-019-b-mysql-all-for-on0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -96,7 +96,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2022 18:49:47 UTC
+ Last Updated on 01/07/2022 18:47:13 UTC
 <!--END_SECTION:waka-->
 
   </details> 
