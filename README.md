@@ -68,18 +68,16 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        ████████████████████████░   98.61% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sd-019-b-project-talker-m1 hr 16 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 16 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -98,7 +96,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/07/2022 18:45:45 UTC
+ Last Updated on 28/07/2022 18:48:56 UTC
 <!--END_SECTION:waka-->
 
   </details> 
