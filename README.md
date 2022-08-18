@@ -68,16 +68,19 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 hrs               █████████████████████░░░░   85.82% 
+Git                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 40 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sd-019-b-project-blogs-ap4 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +99,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 18:48:25 UTC
+ Last Updated on 18/08/2022 18:46:44 UTC
 <!--END_SECTION:waka-->
 
   </details> 
