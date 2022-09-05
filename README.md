@@ -23,7 +23,7 @@
        <div align="justify">
         
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,6 +39,48 @@
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+🌆 Daytime    31 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌃 Evening    64 commits     █████████████░░░░░░░░░░░░   51.61% 
+🌙 Night      17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       28 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58% 
+Tuesday      26 commits     █████░░░░░░░░░░░░░░░░░░░░   20.97% 
+Wednesday    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Thursday     22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
+Friday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.26%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -54,7 +96,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:46:25 UTC
+ Last Updated on 05/09/2022 18:48:49 UTC
 <!--END_SECTION:waka-->
 
   </details> 
