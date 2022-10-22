@@ -68,20 +68,16 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ████████████████████████░   99.16% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sd-021-b-project-trybesmi1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -100,7 +96,7 @@ JavaScript               1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/rafa-araujo/rafa-araujo/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/10/2022 18:58:49 UTC
+ Last Updated on 22/10/2022 18:53:05 UTC
 <!--END_SECTION:waka-->
 
   </details> 
